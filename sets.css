@@ -1,0 +1,11 @@
+#nuevo {
+    position: relative;
+    left: 130px;
+    top:50px;
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    outline: none !important;
+}
