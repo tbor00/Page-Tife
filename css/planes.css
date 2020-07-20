@@ -1,0 +1,36 @@
+#portfolio{
+    margin: 50px !important;
+}
+
+
+header.masthead {
+    padding-top: 10rem !important;
+    padding-bottom: calc(10rem - 4.5rem) !important;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-planes.jpg") !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important;
+    background-size: cover !important;
+  }
+
+  h1 {
+      text-align: center;
+      margin-top: 10px;
+      text-transform: uppercase;
+      color: dimgray;
+  }
+  
+
+#brock {
+    cursor: pointer;
+    transition:all .5s ease-in-out;
+        
+    -webkit-transform:scale(1);transform:scale(1);
+}
+
+
+#brock:hover{
+    transition:all .5s ease-in-out;
+    
+    -webkit-transform:scale(1.7);transform:scale(1.2);
+}

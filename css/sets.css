@@ -1,0 +1,32 @@
+#nuevo {
+    position: relative;
+    left: 130px;
+    top:50px;
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    outline: none !important;
+}
+
+#tiendas {
+    color: black !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+
+#brock {
+    cursor: pointer;
+    transition:all .5s ease-in-out;
+        
+    -webkit-transform:scale(1);transform:scale(1);
+}
+
+
+#brock:hover{
+    transition:all .5s ease-in-out;
+    
+    -webkit-transform:scale(1.7);transform:scale(1.2);
+}
