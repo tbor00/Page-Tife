@@ -34,3 +34,18 @@ header.masthead {
     
     -webkit-transform:scale(1.7);transform:scale(1.2);
 }
+
+@media (max-width: 700px){
+
+    #slide {
+        height: 400px;
+    };
+    #service h1 {
+        
+        font-size: 1em;
+    };
+    #service p{
+        
+        font-size: 0.5em;
+    }
+}
