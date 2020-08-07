@@ -35,6 +35,12 @@ header.masthead {
     -webkit-transform:scale(1.7);transform:scale(1.2);
 }
 
+.titulo {
+    margin-top: 100px;
+    text-align: center;
+    color: #052044 ;
+}
+
 @media (max-width: 700px){
 
     #slide {
