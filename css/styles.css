@@ -10123,7 +10123,7 @@ header.masthead h1 {
 	height:60px;
 	bottom:24px;
 	right:100px;
-	background-color: rgba(244, 98, 58, 0.9);
+	background-color:#ff7e29;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
@@ -10133,7 +10133,7 @@ header.masthead h1 {
 }
 .float:hover {
 	text-decoration: none;
-	color:  rgba(244, 98, 58, 0.9);
+	color:  #ff7e29;
   background-color:#fff;
 }
 
